@@ -1,4 +1,8 @@
-##
+<h2 align="left">Hello, World!</h2>
+
+<p align="left">Atualmente curso Sistemas de Informação e sou apaixonada por tecnologia e inovação. Meu interesse pela comunicação digital me levou a unir desenvolvimento e estratégia, compreendendo a tecnologia além do código.<br><br>Atuo no desenvolvimento de aplicações web e mobile, arquitetura de sistemas e gerenciamento de projetos, sempre buscando alinhar tecnologia e inovação para entregar soluções eficazes.</p>
+
+## 
 
 <div>
   <a href = "https://github.com/rafaeladurand">
