@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Oi! Eu sou Rafaela Durand👋</h1>
   <h3>Desenvolvedora Full Stack • Mobile • Sistemas de Informação</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Arquitetura+de+Software;Tecnologia+%2B+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Arquitetura+de+Software;Tecnologia+%2B+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -62,10 +62,5 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=rafaeladurand&label=Visualizações&color=8A2BE2&style=for-the-badge" alt="Contador de Visualizações"/>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
