@@ -1,36 +1,105 @@
-<h2 align="left">Hello, World!</h2>
+# 💜 README.md
 
-<p align="left">Atualmente curso Sistemas de Informação e sou apaixonada por tecnologia e inovação. Meu interesse pela comunicação digital me levou a unir desenvolvimento e estratégia, compreendendo a tecnologia além do código.<br><br>Atuo no desenvolvimento de aplicações web e mobile, arquitetura de sistemas e gerenciamento de projetos, sempre buscando alinhar tecnologia e inovação para entregar soluções eficazes.</p>
+<div align="center">
 
-## 
+# Olá, eu sou a Rafaela Durand 👋
 
-<div>
-  <a href="https://github.com/rafaeladurand">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaeladurand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaeladurand&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-<div>
-<div style="display: inline-block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+### Desenvolvedora Full Stack • Mobile • Sistemas de Informação
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Arquitetura+de+Software;Tecnologia+%2B+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/rfldurand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:rafaeladurandcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaela-durand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 👩‍💻 Sobre mim
+
+💜 Estudante de **Sistemas de Informação**
+
+🚀 Apaixonada por tecnologia, desenvolvimento e inovação.
+
+💡 Gosto de transformar ideias em soluções, unindo desenvolvimento, arquitetura de software e gerenciamento de projetos.
+
+📱 Desenvolvimento **Web** e **Mobile**
+
+📚 Sempre aprendendo novas tecnologias.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,vue,nodejs,flutter,python,java,mongodb,mysql,graphql,html,css,git,github,vscode&perline=9" />
+
 </div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeladurand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeladurand&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rafaeladurand&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafaeladurand&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeladurand&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://instagram.com/rfldurand">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaeladurandcontato@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafaela-durand/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "A tecnologia move o mundo, mas são as pessoas que dão sentido a ela."
+
+<img src="https://komarev.com/ghpvc/?username=rafaeladurand&label=Visualizações&color=8A2BE2&style=for-the-badge"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
