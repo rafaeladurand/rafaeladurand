@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Rafaela Durand 👋</h1>
+  <h1>Oi! Eu sou a Rafaela Durand 👋</h1>
   <h3>Desenvolvedora Full Stack • Mobile • Sistemas de Informação</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvimento+Web+e+Mobile;Arquitetura+de+Software;Tecnologia+%2B+Inova%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -39,12 +39,6 @@
 
 <br/>
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaeladurand&theme=tokyonight&no-frame=true" alt="Troféus"/>
-</div>
-
 ## 📈 Atividade
 
 <div align="center">
@@ -70,7 +64,6 @@
 <br/>
 
 <div align="center">
-  <i>💜 "A tecnologia move o mundo, mas são as pessoas que dão sentido a ela."</i>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=rafaeladurand&label=Visualizações&color=8A2BE2&style=for-the-badge" alt="Contador de Visualizações"/>
 </div>
