@@ -42,7 +42,7 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaeladurand&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaeladurand&theme=tokyonight&no-frame=true" alt="Troféus"/>
 </div>
 
 ## 📈 Atividade
